@@ -1,0 +1,30 @@
+01-08-2024 14:39:41.347 [Gauge] [DEBUG] gauge run C:/Users/buse.yener/Desktop/testiniumwebprojectV01-main/testiniumwebprojectV01-main/testiniumwebprojectV01/specs/Scenario3.spec
+01-08-2024 14:39:41.352 [Gauge] [DEBUG] hide-suggestion : [true]
+01-08-2024 14:39:41.352 [Gauge] [DEBUG] machine-readable : [true]
+01-08-2024 14:39:41.352 [Gauge] [DEBUG] simple-console : [true]
+01-08-2024 14:39:41.353 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+01-08-2024 14:39:41.354 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-08-2024 14:51:12.415 [Gauge] [DEBUG] gauge run C:/Users/buse.yener/Desktop/testiniumwebprojectV01-main/testiniumwebprojectV01-main/testiniumwebprojectV01/specs/Scenario3.spec
+01-08-2024 14:51:12.415 [Gauge] [DEBUG] hide-suggestion : [true]
+01-08-2024 14:51:12.416 [Gauge] [DEBUG] machine-readable : [true]
+01-08-2024 14:51:12.416 [Gauge] [DEBUG] simple-console : [true]
+01-08-2024 14:51:12.416 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+01-08-2024 14:51:12.416 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-08-2024 14:52:28.818 [Gauge] [DEBUG] gauge run C:/Users/buse.yener/Desktop/testiniumwebprojectV01-main/testiniumwebprojectV01-main/testiniumwebprojectV01/specs/Scenario3.spec
+01-08-2024 14:52:28.819 [Gauge] [DEBUG] hide-suggestion : [true]
+01-08-2024 14:52:28.819 [Gauge] [DEBUG] machine-readable : [true]
+01-08-2024 14:52:28.819 [Gauge] [DEBUG] simple-console : [true]
+01-08-2024 14:52:28.819 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+01-08-2024 14:52:28.819 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-08-2024 14:52:55.137 [Gauge] [DEBUG] gauge run C:/Users/buse.yener/Desktop/testiniumwebprojectV01-main/testiniumwebprojectV01-main/testiniumwebprojectV01/specs/Scenario3.spec
+01-08-2024 14:52:55.138 [Gauge] [DEBUG] hide-suggestion : [true]
+01-08-2024 14:52:55.138 [Gauge] [DEBUG] machine-readable : [true]
+01-08-2024 14:52:55.138 [Gauge] [DEBUG] simple-console : [true]
+01-08-2024 14:52:55.139 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+01-08-2024 14:52:55.140 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
+01-08-2024 14:53:16.547 [Gauge] [DEBUG] gauge run C:/Users/buse.yener/Desktop/testiniumwebprojectV01-main/testiniumwebprojectV01-main/testiniumwebprojectV01/specs/Scenario3.spec
+01-08-2024 14:53:16.548 [Gauge] [DEBUG] hide-suggestion : [true]
+01-08-2024 14:53:16.548 [Gauge] [DEBUG] machine-readable : [true]
+01-08-2024 14:53:16.548 [Gauge] [DEBUG] simple-console : [true]
+01-08-2024 14:53:16.548 [Gauge] [DEBUG] env will be loaded from default directory 'env'
+01-08-2024 14:53:16.548 [Gauge] [DEBUG] 'gauge_environment' set to 'default'
